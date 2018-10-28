@@ -2,7 +2,7 @@
 // Jotto
 //
 // @description: Module for providing functions to work with GuessesView objects
-// @author: Elisha Lai
+// @author: Humayun Khan
 // @version: 1.0 05/11/2015
 //==============================================================================
 

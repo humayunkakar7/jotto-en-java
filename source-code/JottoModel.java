@@ -2,8 +2,8 @@
 // Jotto
 //
 // @description: Module for providing functions to work with JottoModel objects
-// @author: Elisha Lai
-// @version: 1.0 05/11/2015
+// @author: Humayun Khan
+// @version: 1.0 --
 //==============================================================================
 
 import javax.swing.DefaultListModel;

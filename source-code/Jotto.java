@@ -2,8 +2,8 @@
 // Jotto
 //
 // @description: An implementation of Jotto in Java and Swing
-// @author: Elisha Lai
-// @version: 1.0 05/11/2015
+// @author: Humayun Khan
+// @version: 1.0 --
 //==============================================================================
 
 import java.awt.Color;

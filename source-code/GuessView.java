@@ -2,8 +2,8 @@
 // Jotto
 //
 // @description: Module for providing functions to work with GuessView objects
-// @author: Elisha Lai
-// @version: 1.0 05/11/2015
+// @author: Humayun Khan
+// @version: 1.0 --
 //==============================================================================
 
 import java.awt.Color;
